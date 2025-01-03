@@ -14,7 +14,11 @@
   in Namecoin Core. Place the tools in the folder:
 
       C:\Program Files\Namecoin\daemon
-
+ 
+  On-chain archive:
+  -----------------
+  [nft/Namecoin_Core_wallet_migration.zip](https://namecoin.online/explorer/details.php?q=nft%2FNamecoin_Core_wallet_migration.zip)
+  
   Included Scripts:
   -----------------
   1. Dump_privkeys.bat  - Export private keys of names and UTXOs.
